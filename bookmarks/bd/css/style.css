@@ -8,7 +8,9 @@ h1 {
   margin-right: auto;
 }
 body {
-  background-image: url("https://pp.userapi.com/c844416/v844416256/11bd69/YuOkSldXcFc.jpg");
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    color: rgb(4, 2, 29);
+  background-image: linear-gradient(to right, rgb(223, 224, 226), rgb(180, 179, 182));
 }
 .center {
 
